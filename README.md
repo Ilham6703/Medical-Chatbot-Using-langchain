@@ -41,3 +41,7 @@ Store in Pinecone: Vectors are indexed in Pinecone for fast semantic retrieval.
 Retrieve & Generate: When a user asks a question, the most relevant chunks are retrieved and fed into the LLM (Gemini) to generate a context-aware answer.
 
 Serve via Web: Flask handles queries and displays responses in a user-friendly interface.
+
+✨ User Interface and Style
+
+![alt text](image.png)
